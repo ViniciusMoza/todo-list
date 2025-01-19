@@ -54,3 +54,25 @@ Este é um projeto de gerenciamento de tarefas desenvolvido com React no front-e
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
+
+2. **Configure o back-end**
+   cd backend
+
+   npm install
+
+   const uri = "sua_string_de_conexão_com_mongodb";
+
+    npm start
+
+3. **Configure o front-end**
+   
+   cd ../frontend
+
+   npm install
+
+   npm start
+
+4. **Acesse a aplicação**
+
+   http://localhost:3000
+
